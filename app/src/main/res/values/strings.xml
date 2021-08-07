@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tasbih</string>
+
+    <string name="firstIn">ذکر کرنی کے لیے تسبیح بنائیے</string>
+    <string name="second">عنوان</string>
+    <string name="thirdText">درود</string>
+    <string name="fourthtext">ذکر کی تعداد</string>
+    <string name="fifth">1000</string>
+    <string name="button">شروع کریں</string>
+</resources>
